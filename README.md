@@ -10,6 +10,7 @@ The late 2010s and early 2020s were marked by further integration of mobile tech
 
 By 2024, the landscape of laptop design emphasizes customization and user-specific features. AI integration has become a defining element, with adaptive technologies that enhance performance based on user behavior and preferences. The push towards OLED and mini LED displays marked significant improvements in visual output, catering to the creative professionals’ demand for color accuracy and high-definition clarity. Moreover, connectivity options expanded with the universal adoption of USB-C and Thunderbolt ports, facilitating faster data transfer and greater peripheral versatility. Overall, the journey from 2010 to 2024 in laptop design illustrates a path from practical utility to sophisticated, user-centric devices that cater to a variety of professional and personal computing needs.
 
+#
 ### Lenovo Keyboard Design
 
 ![Lenovo Thinkpad](https://github.com/sourceduty/Laptop_Design/assets/123030236/a8cb5d4e-3eca-4f0f-8204-503e5aac2d98)
@@ -20,12 +21,14 @@ Compared to other laptop brands such as Dell’s XPS series or Apple’s MacBook
 
 Moreover, the presence of the TrackPoint or pointing stick in the middle of the ThinkPad keyboard is a unique feature that can affect the overall layout and might not appeal to everyone. While it allows for convenient pointer control without moving hands away from the keyboard, it requires a learning curve and can be seen as a redundancy with the touchpad, complicating the user experience. Additionally, the firm feedback and stiffness of the keys, although beneficial for accurate typing, may initially feel less comfortable for users transitioning from softer, quieter keyboards.
 
+#
 ### NASA Uses Thinkpad
 
 ![ISS](https://github.com/sourceduty/Laptop_Design/assets/123030236/57ca4ff6-920f-49f8-bb62-b320ed85dc2b)
 
 NASA primarily uses ThinkPad laptops. ThinkPad is a brand of laptop computers originally developed by IBM and now manufactured and sold by Lenovo. The combination of durability, reliability, security, customization options, and compatibility makes ThinkPad laptops a preferred choice for NASA and similar organizations.
 
+#
 ### Rugged Laptops
 
 ![Rugged Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/609864df-26c0-41ce-a8d1-b9e8fb7bbbb6)
@@ -36,6 +39,7 @@ However, the enhanced durability of rugged laptops comes with certain trade-offs
 
 Despite these drawbacks, the benefits of rugged laptops are compelling for specific user groups. They are particularly advantageous for professionals who work in environments where exposure to rough conditions is a regular occurrence. For instance, field researchers, construction managers, and military personnel can rely on rugged laptops to maintain functionality in situations where traditional laptops would fail.
 
+#
 ### Structural Rigidity of Laptops
 
 ThinkPad laptops, primarily aimed at business professionals, are renowned for their durability, largely due to the use of strong materials like magnesium alloy and carbon fiber. These materials not only provide structural rigidity but also enhance resistance to mechanical impacts. In contrast, some cheaper ASUS laptops prioritize cost reduction and tend to use more plastic in their construction, which, while cost-effective, is less durable and more prone to flexing and damage.

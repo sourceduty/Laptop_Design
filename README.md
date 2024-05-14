@@ -46,7 +46,7 @@ NASA primarily uses ThinkPad laptops. ThinkPad is a brand of laptop computers or
 #
 ### Rugged Laptops
 
-![Rugged Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/609864df-26c0-41ce-a8d1-b9e8fb7bbbb6)
+![Rugged Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/64a55de0-7f4f-4ef5-aa97-cafe5d109d28)
 
 Rugged laptops are specifically designed to withstand harsh conditions and physical challenges that would typically compromise or damage standard laptops. Unlike normal laptops, which are optimized primarily for performance and aesthetic appeal in relatively safe and controlled environments, rugged laptops are built with durability at the forefront. They often feature reinforced frames, shock-resistant hard drives, and water-resistant keyboards, making them ideal for use in extreme environments such as construction sites, military operations, and outdoor scientific research. The robust construction ensures that they can endure drops, vibrations, and exposure to elements like dust and moisture, which might otherwise lead to system failures in conventional laptops.
 

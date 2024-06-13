@@ -124,5 +124,10 @@ The choice between modular and integrated laptop designs are significantly influ
 <br>
 </details>
 
+#
+### Related Links
+
+[Standard Laptops](https://github.com/sourceduty/Standard_Laptops)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

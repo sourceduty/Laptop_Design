@@ -15,7 +15,7 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 <details><summary>Keyboard Key Design</summary>
 <br>
 
-![Chiclet](https://github.com/sourceduty/Laptop_Design/assets/123030236/d721268f-17b1-43dd-b5ae-82ef70af6027)
+![Keyboards](https://github.com/sourceduty/Laptop_Design/assets/123030236/66da29cb-fc42-45d8-838f-d90f64671b42)
 
 #
 #### Keyboard Keycap Types

@@ -12,6 +12,49 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 
 #
 
+<details><summary>Keyboard Key Design</summary>
+<br>
+
+![Chiclet](https://github.com/sourceduty/Laptop_Design/assets/123030236/d721268f-17b1-43dd-b5ae-82ef70af6027)
+
+#
+#### Keyboard Keycap Types
+
+Chiclet: Flat, square or rectangular keys with rounded corners, common in laptops and low-profile keyboards.
+Membrane/Rubber Dome: Uses a rubber dome that collapses to complete the circuit, not mechanical.
+Scissor-Switch: Uses a scissor mechanism for more stable and responsive key press, often in laptops.
+Topre: Hybrid switch combining mechanical and rubber dome elements, known for tactile feedback.
+Buckling Spring: Uses a spring that buckles under pressure, creating tactile and audible click, famous in IBM Model M keyboards.
+Alps: Mechanical switches known for distinctive tactile and clicky feel, various types like SKCM (clicky) and SKCL (linear).
+Cherry MX: Popular mechanical switches with color-coded versions indicating different characteristics:
+   - Cherry MX Blue: Clicky and tactile
+   - Cherry MX Brown: Tactile but not clicky
+   - Cherry MX Red: Linear and light
+   - Cherry MX Black: Linear and heavy
+   - Cherry MX Green: Clicky and heavy
+   - Cherry MX Clear: Tactile and medium
+Kailh: Similar to Cherry MX switches, includes clicky, tactile, and linear versions.
+Gateron: Known for smoother keystrokes compared to Cherry MX, includes Blue (clicky), Brown (tactile), and Red (linear).
+Romer-G: Developed by Logitech, known for shorter actuation distance and durability.
+Optical: Uses light to detect key presses, offering faster response times and increased durability.
+Hall Effect: Uses a magnetic field to detect key presses, known for high durability and smooth key presses.
+
+#
+#### Keycap Pitch
+
+Key pitch refers to the distance between the centers of two adjacent keys on a keyboard or keypad. It is a crucial factor in the design and usability of keyboards, affecting both comfort and typing speed. Standard key pitches vary depending on the type of keyboard; for instance, full-sized keyboards typically have a key pitch of around 19-20 millimeters. This spacing is designed to accommodate the average finger width, allowing for accurate and comfortable typing. When the key pitch is too small, users may experience increased typing errors and discomfort due to the cramped spacing, while a larger key pitch can lead to a slower typing speed as fingers have to travel further between keys.
+
+In the context of musical keyboards, key pitch also plays a significant role. Here, it refers to the spacing between adjacent keys, which is standardized to ensure consistent playability across different instruments. For instance, the key pitch on a piano is about 23.5 millimeters for white keys and around 13.7 millimeters for black keys. This standardized spacing allows musicians to easily transition between different keyboards without having to adjust their playing technique. The consistency in key pitch ensures that the tactile feedback and reachability of keys remain uniform, facilitating better performance and reducing the likelihood of errors during play.
+
+#
+#### Key Gap Sizes
+
+Key gap sizes refer to the spaces between individual keys on a keyboard. These gaps are crucial for preventing accidental key presses, enhancing the tactile feedback, and improving overall typing accuracy. On most computer keyboards, the key gaps are designed to be just wide enough to distinguish between keys but not so wide that they reduce typing efficiency. A typical key gap on a standard keyboard is about 1.5-4 millimeters. This spacing helps users to feel each key distinctly, thereby minimizing the chances of pressing multiple keys simultaneously, which can lead to typing errors.
+
+In musical keyboards, key gap sizes also hold significance, particularly for touch and playability. The gaps between the keys on a piano, for instance, allow musicians to feel their way across the keyboard without needing to constantly look at their hands. This tactile feedback is essential for playing complex pieces that require rapid finger movements. The consistency in gap sizes across different musical keyboards ensures that musicians can perform seamlessly regardless of the instrument they are using. Proper key gap sizes are essential in both types of keyboards to maintain a balance between speed, accuracy, and comfort.
+
+<br>
+</details>
 <details><summary>Lenovo Keyboard Design</summary>
 <br>
 
@@ -21,6 +64,8 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 ![Lenovo Thinkpad](https://github.com/sourceduty/Laptop_Design/assets/123030236/a8cb5d4e-3eca-4f0f-8204-503e5aac2d98)
 
 Lenovo ThinkPad laptops are noted for their distinctive keyboard design, featuring slightly concave keys that are designed to fit the fingertips and spaced to minimize typing errors. The keys offer a deeper travel than many competitors, which can be satisfying for frequent typists but might require some adjustment for those accustomed to shallower keyboards. This key design is intended to reduce fatigue during long typing sessions, though it might feel bulky to some users.
+
+The key gap size for Lenovo ThinkPad laptops generally refers to the distance between the keys on the keyboard. This gap can vary slightly between different models, but it typically ranges from about 1.5 mm to 3 mm. If you need the exact gap size for a specific model, it would be best to refer to the product specifications or user manual for that model.
 
 Compared to other laptop brands such as Dell’s XPS series or Apple’s MacBook series, which utilize flatter, chiclet-style keys, the ThinkPad's rounded keys and noticeable spacing can be a drawback for users seeking a sleeker, more modern aesthetic. These laptops often have less tactile keyboards with shorter travel, catering to a preference for compactness over typing comfort. The robust build of ThinkPad keyboards, while durable, adds to the overall weight and thickness of the laptops, which might be a disadvantage for users prioritizing portability.
 

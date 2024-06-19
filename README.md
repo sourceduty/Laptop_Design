@@ -84,11 +84,11 @@ Moreover, the presence of the TrackPoint or pointing stick in the middle of the 
 
 <br>
 </details>
-<details><summary>NASA Uses Thinkpad</summary>
+<details><summary>NASA Uses ThinkPad</summary>
 <br>
 
 #
-### NASA Uses Thinkpad
+### NASA Uses ThinkPad
 
 ![ISS](https://github.com/sourceduty/Laptop_Design/assets/123030236/57ca4ff6-920f-49f8-bb62-b320ed85dc2b)
 

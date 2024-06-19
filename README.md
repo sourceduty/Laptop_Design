@@ -21,11 +21,17 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 #### Keyboard Keycap Types
 
 Chiclet: Flat, square or rectangular keys with rounded corners, common in laptops and low-profile keyboards.
+
 Membrane/Rubber Dome: Uses a rubber dome that collapses to complete the circuit, not mechanical.
+
 Scissor-Switch: Uses a scissor mechanism for more stable and responsive key press, often in laptops.
+
 Topre: Hybrid switch combining mechanical and rubber dome elements, known for tactile feedback.
+
 Buckling Spring: Uses a spring that buckles under pressure, creating tactile and audible click, famous in IBM Model M keyboards.
+
 Alps: Mechanical switches known for distinctive tactile and clicky feel, various types like SKCM (clicky) and SKCL (linear).
+
 Cherry MX: Popular mechanical switches with color-coded versions indicating different characteristics:
    - Cherry MX Blue: Clicky and tactile
    - Cherry MX Brown: Tactile but not clicky
@@ -33,10 +39,15 @@ Cherry MX: Popular mechanical switches with color-coded versions indicating diff
    - Cherry MX Black: Linear and heavy
    - Cherry MX Green: Clicky and heavy
    - Cherry MX Clear: Tactile and medium
+     
 Kailh: Similar to Cherry MX switches, includes clicky, tactile, and linear versions.
+
 Gateron: Known for smoother keystrokes compared to Cherry MX, includes Blue (clicky), Brown (tactile), and Red (linear).
+
 Romer-G: Developed by Logitech, known for shorter actuation distance and durability.
+
 Optical: Uses light to detect key presses, offering faster response times and increased durability.
+
 Hall Effect: Uses a magnetic field to detect key presses, known for high durability and smooth key presses.
 
 #

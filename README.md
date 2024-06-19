@@ -205,14 +205,14 @@ The choice between modular and integrated laptop designs are significantly influ
 
 - Additional custom features like engraved designs, custom lighting, or unique software installations can also add to the cost.
 
-Estimated Total Cost:
+#
+#### Estimated Total Cost:
 
 - Base Laptop Cost: $2,000 (mid-range high-end gaming laptop)
 - Gold Plating: $20,000
 - Customization and Labor: $1,000
 
-#
-#### Total Estimated Cost: $23,000 USD
+Total Estimated Cost: $23,000 USD
 
 <br>
 </details>

@@ -180,7 +180,7 @@ The choice between modular and integrated laptop designs are significantly influ
 <details><summary>Gold-Plated Laptop Concept</summary>
 <br>
 
-![Gold-Plated](https://github.com/sourceduty/Laptop_Design/assets/123030236/02f00b60-1082-475c-aa32-2bf56976db37)
+![Gold-Plated](https://github.com/sourceduty/Laptop_Design/assets/123030236/75be1259-5846-44b1-ae8e-3e77aec2ff23)
 
 #
 #### Base Cost of the Gaming Laptop:

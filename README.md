@@ -11,6 +11,7 @@ The late 2010s and early 2020s were marked by further integration of mobile tech
 By 2024, the landscape of laptop design emphasizes customization and user-specific features. AI integration has become a defining element, with adaptive technologies that enhance performance based on user behavior and preferences. The push towards OLED and mini LED displays marked significant improvements in visual output, catering to the creative professionals’ demand for color accuracy and high-definition clarity. Moreover, connectivity options expanded with the universal adoption of USB-C and Thunderbolt ports, facilitating faster data transfer and greater peripheral versatility. Overall, the journey from 2010 to 2024 in laptop design illustrates a path from practical utility to sophisticated, user-centric devices that cater to a variety of professional and personal computing needs.
 
 #
+### Notes
 
 <details><summary>Keyboard Key Design</summary>
 <br>

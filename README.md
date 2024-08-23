@@ -225,6 +225,10 @@ The choice between modular and integrated laptop designs are significantly influ
 </details>
 
 #
+
+![Rugged](https://github.com/user-attachments/assets/6970a650-dc94-436f-9a01-400f85017402)
+
+#
 ### Related Links
 
 [Standard Laptops](https://github.com/sourceduty/Standard_Laptops)

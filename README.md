@@ -232,6 +232,12 @@ The choice between modular and integrated laptop designs are significantly influ
 ### Related Links
 
 [Standard Laptops](https://github.com/sourceduty/Standard_Laptops)
+<br>
+[Office Comfort](https://github.com/sourceduty/Office_Comfort)
+<br>
+[PC Design](https://github.com/sourceduty/PC_Design)
+<br>
+[Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

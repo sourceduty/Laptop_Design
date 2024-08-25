@@ -1,5 +1,8 @@
 ![Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/5975e1ef-3607-4d45-b706-575d3ab6e89c)
 
+> Laptop design research and notes.
+
+#
 ### Laptop Design from 2010 to 2024
 
 The evolution of laptop design from 2010 to 2024 reflects significant technological advances and changing consumer needs. In the early 2010s, laptops were often characterized by bulkier frames and heavier weights, with a focus on improving performance specifications like processor speed, RAM, and storage capacity. Keyboards were substantial, and optical drives were common, catering to needs for physical media. The aesthetics of laptops during this period were primarily functional, with manufacturers prioritizing hardware capabilities over sleekness or minimalism.

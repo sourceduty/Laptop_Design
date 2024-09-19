@@ -16,6 +16,8 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 #
 ### Laptop Sizes
 
+![Rugged](https://github.com/user-attachments/assets/6970a650-dc94-436f-9a01-400f85017402)
+
 The most popular screen size tends to be around 15 to 15.6 inches. This size strikes a balance between portability and usability, making it a favorite among a wide range of users, including students, professionals, and casual users. The 15.6-inch laptops typically offer a good viewing experience for both work and entertainment purposes without being too cumbersome to carry around. Additionally, this size allows for a full-sized keyboard and ample space for various ports and components, which enhances its appeal to users who need a versatile and powerful machine.
 
 On the other end of the spectrum, the least popular laptop screen size is often around 11 to 11.6 inches. These smaller laptops, commonly referred to as netbooks or mini laptops, tend to be less favored because of their limited screen real estate and reduced keyboard size, which can make them less comfortable to use for extended periods. While they offer great portability and can be ideal for specific tasks such as basic web browsing or note-taking, their overall functionality and performance may not meet the needs of users who require more robust computing power or larger displays for multitasking and media consumption. Consequently, they occupy a niche market compared to their larger counterparts.
@@ -229,7 +231,7 @@ The choice between modular and integrated laptop designs are significantly influ
 
 #
 
-![Rugged](https://github.com/user-attachments/assets/6970a650-dc94-436f-9a01-400f85017402)
+![Hoarding Computers](https://github.com/user-attachments/assets/88d0e80b-ce94-4322-82e1-60f2f12ecb0a)
 
 #
 ### Related Links

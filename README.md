@@ -1,4 +1,4 @@
-![Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/5975e1ef-3607-4d45-b706-575d3ab6e89c)
+![Uploading Sourceduty Desk.jpg…]()
 
 > Laptop design research and notes.
 
@@ -192,7 +192,7 @@ The choice between modular and integrated laptop designs are significantly influ
 <details><summary>Gold-Plated Laptop Concept</summary>
 <br>
 
-![Gold-Plated](https://github.com/sourceduty/Laptop_Design/assets/123030236/75be1259-5846-44b1-ae8e-3e77aec2ff23)
+![Laptop](https://github.com/sourceduty/Laptop_Design/assets/123030236/5975e1ef-3607-4d45-b706-575d3ab6e89c)
 
 #
 #### Base Cost of the Gaming Laptop:

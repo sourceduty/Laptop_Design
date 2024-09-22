@@ -1,4 +1,4 @@
-![Uploading Sourceduty Desk.jpg…]()
+![Sourceduty Desk](https://github.com/user-attachments/assets/b5a41098-cea3-448d-b2ab-01353238fc98)
 
 > Laptop design research and notes.
 

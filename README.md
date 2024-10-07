@@ -1,4 +1,4 @@
-![Laptop](https://github.com/user-attachments/assets/d703db6d-1dae-4950-82d7-3698cbd4da41)
+![Mobile Laptop Desk](https://github.com/user-attachments/assets/753690e5-058c-459a-990e-d4c110036696)
 
 > Laptop design research and notes.
 
@@ -232,6 +232,10 @@ The choice between modular and integrated laptop designs are significantly influ
 #
 
 ![Hoarding Computers](https://github.com/user-attachments/assets/88d0e80b-ce94-4322-82e1-60f2f12ecb0a)
+
+#
+
+![Laptop](https://github.com/user-attachments/assets/d703db6d-1dae-4950-82d7-3698cbd4da41)
 
 #
 ### Related Links

@@ -1,4 +1,4 @@
-![Laptop](https://github.com/user-attachments/assets/d703db6d-1dae-4950-82d7-3698cbd4da41)
+![DELL G15](https://github.com/user-attachments/assets/e4b9886a-088c-4e40-a398-28af31248fff)
 
 > Laptop design research and notes.
 
@@ -232,6 +232,10 @@ The choice between modular and integrated laptop designs are significantly influ
 #
 
 ![Hoarding Computers](https://github.com/user-attachments/assets/88d0e80b-ce94-4322-82e1-60f2f12ecb0a)
+
+#
+
+![Laptop](https://github.com/user-attachments/assets/d703db6d-1dae-4950-82d7-3698cbd4da41)
 
 #
 ### Related Links

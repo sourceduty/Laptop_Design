@@ -16,7 +16,7 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 #
 ### Laptop Sizes
 
-![Rugged](https://github.com/user-attachments/assets/6970a650-dc94-436f-9a01-400f85017402)
+![Expanscape 7-Screen Laptop](https://github.com/user-attachments/assets/7534d9cf-0abd-4802-9ed8-7ead20a8782a)
 
 The most popular screen size tends to be around 15 to 15.6 inches. This size strikes a balance between portability and usability, making it a favorite among a wide range of users, including students, professionals, and casual users. The 15.6-inch laptops typically offer a good viewing experience for both work and entertainment purposes without being too cumbersome to carry around. Additionally, this size allows for a full-sized keyboard and ample space for various ports and components, which enhances its appeal to users who need a versatile and powerful machine.
 

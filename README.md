@@ -230,17 +230,14 @@ The choice between modular and integrated laptop designs are significantly influ
 </details>
 
 #
-
 ![Hoarding Computers](https://github.com/user-attachments/assets/88d0e80b-ce94-4322-82e1-60f2f12ecb0a)
-
 #
-
 ![Laptop](https://github.com/user-attachments/assets/d703db6d-1dae-4950-82d7-3698cbd4da41)
-
 #
-
 ![Laptop](https://github.com/user-attachments/assets/d19d716f-b869-4e28-815b-4eb4c1407cbf)
 
+#
+> Alex: "*Polished gold laptop, including the keys and touchpad, with a polished gold mouse.*"
 #
 ### Related Links
 

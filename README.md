@@ -226,6 +226,10 @@ The choice between modular and integrated laptop designs are significantly influ
 
 #### Total Estimated Cost: $23,000 USD
 
+#
+
+![Golden](https://github.com/user-attachments/assets/7c542b0b-a544-4f88-a249-72f0c9d94ea0)
+
 <br>
 </details>
 

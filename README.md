@@ -26,7 +26,7 @@ On the other end of the spectrum, the least popular laptop screen size is often 
 #
 ### Strength Testing
 
-![Laptops](https://github.com/user-attachments/assets/bc7c8ae1-a1eb-4824-9405-f980b91b1204)
+![Strength](https://github.com/user-attachments/assets/e0b1c931-4b31-4be2-a7ad-9ba99b34e1c1)
 
 Holding a laptop by the corner of its housing is indeed a practical, if unconventional, way to test the strength and rigidity of the device. Laptops are typically thin and lightweight, and the structural integrity of the chassis can vary depending on materials used, such as aluminum, magnesium alloy, or plastic. By holding it from one corner, any flex or bending under the laptop's weight would reveal potential weaknesses in the build. If a laptop remains solid and rigid without noticeable bending or creaking, it suggests a durable construction, which is often preferred for high-end models used in professional environments where robustness is a key factor. However, this type of test may exert more stress than the laptop would face in regular use, so passing it is a good sign of quality engineering.
 

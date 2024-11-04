@@ -252,6 +252,8 @@ The choice between modular and integrated laptop designs are significantly influ
 
 #
 > Alex: "*Polished gold laptop, including the keys and touchpad, with a polished gold mouse.*"
+
+> "*The DELL G15 gaming laptop is heavy but solid.*"
 #
 ### Related Links
 

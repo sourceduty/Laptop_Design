@@ -1,3 +1,4 @@
+![Mudtop](https://github.com/user-attachments/assets/b97dd9c5-1da8-4875-8710-67260a4d091c)
 ![DELL G15](https://github.com/user-attachments/assets/e4b9886a-088c-4e40-a398-28af31248fff)
 
 > Laptop design research and notes.
@@ -21,6 +22,15 @@ By 2024, the landscape of laptop design emphasizes customization and user-specif
 The most popular screen size tends to be around 15 to 15.6 inches. This size strikes a balance between portability and usability, making it a favorite among a wide range of users, including students, professionals, and casual users. The 15.6-inch laptops typically offer a good viewing experience for both work and entertainment purposes without being too cumbersome to carry around. Additionally, this size allows for a full-sized keyboard and ample space for various ports and components, which enhances its appeal to users who need a versatile and powerful machine.
 
 On the other end of the spectrum, the least popular laptop screen size is often around 11 to 11.6 inches. These smaller laptops, commonly referred to as netbooks or mini laptops, tend to be less favored because of their limited screen real estate and reduced keyboard size, which can make them less comfortable to use for extended periods. While they offer great portability and can be ideal for specific tasks such as basic web browsing or note-taking, their overall functionality and performance may not meet the needs of users who require more robust computing power or larger displays for multitasking and media consumption. Consequently, they occupy a niche market compared to their larger counterparts.
+
+#
+### Strength Testing
+
+![Laptops](https://github.com/user-attachments/assets/bc7c8ae1-a1eb-4824-9405-f980b91b1204)
+
+Holding a laptop by the corner of its housing is indeed a practical, if unconventional, way to test the strength and rigidity of the device. Laptops are typically thin and lightweight, and the structural integrity of the chassis can vary depending on materials used, such as aluminum, magnesium alloy, or plastic. By holding it from one corner, any flex or bending under the laptop's weight would reveal potential weaknesses in the build. If a laptop remains solid and rigid without noticeable bending or creaking, it suggests a durable construction, which is often preferred for high-end models used in professional environments where robustness is a key factor. However, this type of test may exert more stress than the laptop would face in regular use, so passing it is a good sign of quality engineering.
+
+On the other hand, holding a laptop by the corner may not fully represent the day-to-day handling stresses the device would typically encounter. Most users won’t routinely handle laptops in this way; instead, they’re usually carried with support across the base or within a case. Corner holding could risk unintentional damage, especially if the laptop isn't designed with a reinforced structure to handle such strain. While it can be an interesting test to demonstrate chassis rigidity, manufacturers generally focus on testing for everyday impacts like drops, pressure on the lid, and hinge durability. Therefore, while this test provides some insight into build quality, it’s only one of many ways to assess overall durability.
 
 #
 ### Notes

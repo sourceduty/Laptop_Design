@@ -1,5 +1,5 @@
+![Portable Desktop](https://github.com/user-attachments/assets/3d2bc1ed-e858-446e-82bb-9ac5cf2ba1e4)
 ![Mudtop](https://github.com/user-attachments/assets/b97dd9c5-1da8-4875-8710-67260a4d091c)
-![DELL G15](https://github.com/user-attachments/assets/e4b9886a-088c-4e40-a398-28af31248fff)
 
 > Laptop design research and notes.
 

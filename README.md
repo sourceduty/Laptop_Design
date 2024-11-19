@@ -1,5 +1,5 @@
 ![Portable Desktop](https://github.com/user-attachments/assets/3d2bc1ed-e858-446e-82bb-9ac5cf2ba1e4)
-![Mudtop](https://github.com/user-attachments/assets/b97dd9c5-1da8-4875-8710-67260a4d091c)
+![JD Laptop](https://github.com/user-attachments/assets/e0461181-9160-4214-a57b-3ef5d49a32f3)
 
 > Laptop design research and notes.
 

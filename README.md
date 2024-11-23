@@ -15,6 +15,11 @@ The late 2010s and early 2020s were marked by further integration of mobile tech
 By 2024, the landscape of laptop design emphasizes customization and user-specific features. AI integration has become a defining element, with adaptive technologies that enhance performance based on user behavior and preferences. The push towards OLED and mini LED displays marked significant improvements in visual output, catering to the creative professionals’ demand for color accuracy and high-definition clarity. Moreover, connectivity options expanded with the universal adoption of USB-C and Thunderbolt ports, facilitating faster data transfer and greater peripheral versatility. Overall, the journey from 2010 to 2024 in laptop design illustrates a path from practical utility to sophisticated, user-centric devices that cater to a variety of professional and personal computing needs.
 
 #
+### Laptop Noises
+
+There are annoying sounds in modern laptops, such as high-pitched whines, intermittent scratching, or faint clicking, often stem from the hardware components under stress, rather than internet usage. The most common culprit is coil whine, caused by vibrations in inductors within the laptop’s voltage regulation modules (VRMs), which power the CPU, GPU, and other components. This noise becomes more noticeable during high-power activities like gaming or rendering. Similarly, fan noise may escalate if the cooling system ramps up to manage heat from these processes. While excessive internet usage alone doesn't directly cause these sounds, it can lead to higher CPU or GPU activity, especially during tasks like video streaming, downloading, or heavy browser usage, which can in turn exacerbate coil whine or increase fan speeds. Proper cooling and power management settings can help mitigate these noises, but they remain a characteristic of compact, high-performance designs in modern laptops.  
+
+#
 ### Prison Laptops
 
 ![Securebook Clear Laptop](https://github.com/user-attachments/assets/5daad35e-cd8e-49bf-9b34-6e2271facaf4)

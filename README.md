@@ -278,6 +278,8 @@ The choice between modular and integrated laptop designs are significantly influ
 [PC Design](https://github.com/sourceduty/PC_Design)
 <br>
 [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
+<br>
+[Hardware Roast](https://github.com/sourceduty/Hardware_Roast)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
